@@ -1,2 +1,2 @@
 # DC-Net
-DC-Net: A Dark Channel Guided Multi-task Convolutional Neural Network for Joint Rain and Haze Removal
+Going Clear from Misty Rain in Dark Channel Guided Network
