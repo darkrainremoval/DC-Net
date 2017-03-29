@@ -1,0 +1,17 @@
+Matlab demo code for "Going Clear from Misty Rain in Dark Channel Guided Network".
+This code is for academic purpose only. Not for commercial/industrial activities.
+This code has been tested on Windows 7 64-bit, Linux, and on MATLAB 2014b.
+
+
+Usage:
+demo.m - demonstrate rain and haze removal using derain.p
+
+Function:
+derain.p - realize rain and haze removal
+
+Folders:
+im - real-world test images
+result - the rain and haze removal results
+
+File:
+Rain700 - the link to the new synthetic dataset Rain700 proposed in "Going Clear from Misty Rain in Dark Channel Guided Network".
