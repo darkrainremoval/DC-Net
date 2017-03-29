@@ -1,5 +1,5 @@
 % =========================================================================
-% Test code for DarkNet: A Dark Channel Guided Convolutional Neural Network for Fast Single Image Rain Removal
+% Test code for Going Clear from Misty Rain in Dark Channel Guided Network
 % =========================================================================
 
 clear; close all; clc;
