@@ -16,4 +16,4 @@ result - the rain and haze removal results
 1. [Download](http://www.cs.columbia.edu/CAVE/databases/rain_streak_db/rain_streak.php) the rain streak dataset built by Kshitiz Garg and Shree K. Nayar. Then extract the folders to your project directory.
 2. Prepare an outdoor image named "gt.jpg". Then compute the depth map of gt and named "gt_depth.jpg". In this paper, we use the method proposed by [Fayao Liu, et al.](https://bitbucket.org/fayao/dcnf-fcsp) to estimate the depth map. Move gt and gt_depth to your project directory.
 3. Move syntheticRain.exe and rainstreak.txt to you project directory.
-4. Run syntheticRain.exe, the synthetic rain image "s_Rain.jpg" will be there for you.
+4. Run syntheticRain.exe, the synthetic rain image "s_Rain.jpg" will be there for you. The syntheticRain.exe will be released in the next few days.
