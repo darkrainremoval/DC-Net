@@ -7,6 +7,7 @@ demo.m -- demonstrate rain and haze removal using derain.p
 
 ## Folders:
 im -- real-world test images
+
 result -- the rain and haze removal results
 
 ## Dataset:
