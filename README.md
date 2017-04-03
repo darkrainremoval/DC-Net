@@ -7,7 +7,7 @@ demo.m -- demonstrate rain and haze removal using derain.p
 
 ## Folders:
 im -- real-world test images
-result - the rain and haze removal results
+result -- the rain and haze removal results
 
 ## Dataset:
 [Rain700](https://drive.google.com/open?id=0B7A9ACtVI5LKN01fbFhVWUxQSzA) - the synthetic dataset proposed in "Going Clear from Misty Rain in Dark Channel Guided Network". 
