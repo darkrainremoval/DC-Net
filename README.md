@@ -11,7 +11,7 @@ im -- real-world test images
 result -- the rain and haze removal results
 
 ## Dataset:
-[Rain700] - the synthetic dataset proposed in "Going Clear from Misty Rain in Dark Channel Guided Network". 
+[Rain700] - the synthetic dataset proposed in "Going Clear from Misty Rain in Dark Channel Guided Network". We will release it soon afterwards.
 ## How to synthesise a rain image
 1. [Download](http://www.cs.columbia.edu/CAVE/databases/rain_streak_db/rain_streak.php) the rain streak dataset built by Kshitiz Garg and Shree K. Nayar. Then extract the folders to your project directory.
 2. Prepare an outdoor image. Then compute the depth map of the image and save it as a txt file. In this paper, we use the method proposed by [Fayao Liu, et al.](https://bitbucket.org/fayao/dcnf-fcsp) to estimate the depth map. Move the image and its depth map to your project directory.
